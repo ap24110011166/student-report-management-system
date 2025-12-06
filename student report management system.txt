@@ -1,0 +1,5 @@
+1 John 85.5
+2 Mary 90.0
+3 David 78.25
+4 Sara 92.75
+5 Alex 68.5
